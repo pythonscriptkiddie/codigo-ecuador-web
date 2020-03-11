@@ -62,6 +62,10 @@ const MobileNavbar = () => {
                 </Dropdown.Item>
 
                 <Dropdown.Item>
+                  <a href="/resources/roundup">{navbarText[lang].roundup}</a>
+                </Dropdown.Item>
+
+                <Dropdown.Item>
                   <a href="https://flipboard.com/@joanindiana5duk/codigo-8ma7ouh6y">
                     {navbarText[lang].news}
                   </a>

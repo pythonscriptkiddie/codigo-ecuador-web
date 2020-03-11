@@ -1,0 +1,45 @@
+@media screen and (min-width: 700px) {
+    .roundup-image {
+      max-height: 30vw;
+      width: auto;
+    }
+  }
+  
+  @media screen and (max-width: 699px) {
+    .roundup-image {
+      max-height: 20vw;
+      width: auto;
+    }
+  }
+  
+  .roundup-container-text {
+    padding-top: 3em;
+  }
+  
+  .roundup-container-text p {
+    font-size: 1.8em;
+    line-height: 1.5em;
+    margin-bottom: 5em;
+  }
+  
+  .roundup-card {
+    width: 50%;
+  }
+  
+  .roundup-description {
+    width: 90%;
+    margin: auto;
+    font-size: 1.2em;
+    line-height: 1em;
+    padding: 5%;
+  }
+  
+  .research-subhead {
+    margin-bottom: 2em;
+  }
+  
+  .slick-track div {
+    min-width: 0 !important;
+    max-width: 100% !important;
+  }
+  

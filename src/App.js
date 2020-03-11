@@ -16,6 +16,7 @@ import Mentorship from "./features/services/mentorship/Mentorship";
 //research
 import CodingContainer from "./features/resources/coding/CodingContainer";
 import ResearchContainer from "./features/resources/research/ResearchContainer";
+import RoundupContainer from "./features/resources/roundup/RoundupContainer";
 import Blog from "./features/blog/Blog";
 import Donate from "./features/donate/Donate";
 import Footer from "./features/footer/Footer.js";
@@ -83,6 +84,11 @@ class App extends Component {
             exact
             path="/resources/research"
             render={() => <ResearchContainer />}
+          ></Route>
+          <Route
+            exact
+            path="/resources/roundup"
+            render={() => <RoundupContainer />}
           ></Route>
 
           <Route exact path="/blog" render={() => <Blog />}></Route>
