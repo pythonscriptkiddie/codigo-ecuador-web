@@ -13,7 +13,8 @@
   }
   
   .roundup-container-text {
-    padding-top: 1.5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
   
   .roundup-container-text p {
@@ -35,7 +36,7 @@
   }
   
   .roundup-subhead {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
   
   .slick-track div {
