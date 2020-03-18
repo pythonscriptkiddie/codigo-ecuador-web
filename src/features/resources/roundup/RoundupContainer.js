@@ -12,21 +12,19 @@ class RoundupContainer extends Component {
     return (
       <div className="main-container">
         <div className="headline roundup-headline">
-          <span className="gold">Roundup</span>
+          <span className="gold">Roundup: The latest coding news</span>
         </div>
 
         <div className="roundup-container-text">
-          <div className="subhead center roundup-subhead">
-            News Roundup: latest updates on coding and web development
-          </div>
 
+<p><i>These articles represent the views of their authors only, and do not necessarily represent
+  those of Codigo Ecuador, its founders, employees, and other affiliates</i></p>
           <p><p><b>Skills</b></p>
 <p><a href ="https://www.sciencedaily.com/releases/2020/03/200302103735.htm">Not a 'math person'? You may be better at learning to code than you think</a> (3/4/2020) Don't give up on coding if you don't have top-notch math skills, because it has much in common with verbal skills.</p>
 
 <p><a href ="https://www.benzinga.com/money/best-python-course-on-udemy/">Best Python Course on Udemy • Benzinga • Learn Python</a> (2/1/2020) Overview of the best Python courses on Udemy</p>
 
 <p><a href ="https://thenextweb.com/offers/2020/03/14/code-wont-bite-we-promise-in-fact-this-batch-of-courses-could-actually-make-programming-your-friend/">Code won’t bite. We promise. In fact, this batch of courses could actually make programming your friend.</a> (3/14/2020) Overview of the best Python courses on Udemy</p>
-<p><b>Scripting/Automation</b></p>
 <p><b>Languages</b></p>
 <p><a href ="https://www.techrepublic.com/article/why-python-is-likely-to-pass-java-in-popularity/">Why Python is likely to pass Java in popularity</a> (3/10/2020) RedMonk's analysis says that Python has passed Java in popularity, making it the second most popular language. However, the language is unlikely to eclipse Javascript due to the latter's online ubiquity.</p>
 
