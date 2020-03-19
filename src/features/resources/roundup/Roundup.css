@@ -26,7 +26,7 @@
     margin-bottom: 1em;
     margin-left: 1em;
     margin-right: 1em;
-    background-color: darkgoldenrod;
+    background-color: whitesmoke;
     border-radius: 1em;
     padding: 4mm;
 
@@ -47,15 +47,14 @@
   .roundup-subhead {
     margin-bottom: 1em;
   }
+
+  .header1 {
+    font-size: 3em;
+  }
   
   .slick-track div {
     min-width: 0 !important;
     max-width: 100% !important;
   }
   
-  a {
-    color: #FFF;
-  }
-  a:hover {
-     color: #00F
-  }
+ 

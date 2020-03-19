@@ -16,13 +16,14 @@ class RoundupContainer extends Component {
         </div>
 
         <div className="roundup-container-text"><p><b>Skills</b></p>
-<p><a href ="https://www.sciencedaily.com/releases/2020/03/200302103735.htm">Not a 'math person'? You may be better at learning to code than you think</a> (3/4/2020) Don't give up on coding if you don't have top-notch math skills, because it has much in common with verbal skills.</p>
+        <p><a href ="https://www.sciencedaily.com/releases/2020/03/200302103735.htm">Not a 'math person'? You may be better at learning to code than you think</a> (3/4/2020) Don't give up on coding if you don't have top-notch math skills, because it has much in common with verbal skills.</p>
 
 <p><a href ="https://www.benzinga.com/money/best-python-course-on-udemy/">Best Python Course on Udemy • Benzinga • Learn Python</a> (2/1/2020) Overview of the best Python courses on Udemy</p>
 
 <p><a href ="https://insights.dice.com/2020/02/17/new-python-programmer-learn-concepts/">New Python Programmer? Learn These Concepts First.</a> (2/17/2020) This article discusses what you need to know if you want to start learning Python and develop useful skills.</p>
 
 <p><a href ="https://thenextweb.com/offers/2020/03/14/code-wont-bite-we-promise-in-fact-this-batch-of-courses-could-actually-make-programming-your-friend/">Code won’t bite. We promise. In fact, this batch of courses could actually make programming your friend.</a> (3/14/2020) Overview of the best Python courses on Udemy</p>
+<div classname="header1"></div><p><b>Scripting/Automation</b></p>
 <p><b>Languages</b></p>
 <p><a href ="https://www.techrepublic.com/article/why-python-is-likely-to-pass-java-in-popularity/">Why Python is likely to pass Java in popularity</a> (3/10/2020) RedMonk's analysis says that Python has passed Java in popularity, making it the second most popular language. However, the language is unlikely to eclipse Javascript due to the latter's online ubiquity.</p>
 
@@ -36,9 +37,11 @@ class RoundupContainer extends Component {
 <p><b>Careers</b></p>
 <p><a href ="https://www.zdnet.com/article/tesla-know-python-language-and-up-for-a-hardcore-coding-test-get-in-touch/">Know Python language and up for a 'hardcore' coding test? Get in touch, says Tesla</a> (2/4/2020) Elon Musk has said Tesla will hire people who can pass a "hardcore coding test" rather than an educational requirement. This opens the door for skilled but unconventional learners.</p>
 <p><b>Deep Learning</b></p>
-<p><a href ="https://www.infoworld.com/article/3532009/nvidias-rapids-python-analytics-on-the-gpu.html">Nvidia’s Rapids: Python analytics on the GPU</a> (3/11/2020) NVIDIA has created a Rapids project that is intended to help Python developers access their GPUs without knowing complicated low-level code.</p>
+<p><a href ="https://www.infoworld.com/article/3532009/nvidias-rapids-python-analytics-on-the-gpu.html">1</a> (3/11/2020) NVIDIA has created a Rapids project that is intended to help Python developers access their GPUs without knowing complicated low-level code.</p>
 
 <p><a href ="https://cleantechnica.com/2020/03/16/navigants-nonsense-about-tesla-autonomous-driving/">Navigant’s Nonsense About Tesla Autonomous Driving</a> (3/16/2020) Not specified</p>
+
+<p><a href ="https://www.outlookindia.com/newsscroll/aibased-farming-punjab-students-develop-device-to-increase-agri-produce/1740463">''AI-based farming'': Punjab students develop device to increase agri produce</a> (2/21/2020) Punjabi students are using artificial intelligence with topology based algorithms to increase crop yields.</p>
 <p><b>Data And Our World</b></p>
 <p><a href ="https://www.theguardian.com/world/2020/mar/13/coronavirus-pandemic-visualising-the-global-crisis">The coronavirus pandemic: visualising the global crisis</a> (3/13/2020) A visualization of WHO data regarding the coronavirus. Approximately 4.7 percent of cases required intensive care.</p>
         </div>
